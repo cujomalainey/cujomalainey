@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there stranger 👋 here is a little bit of information about me
 
-<!--
-**cujomalainey/cujomalainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👷 Day to day work is over in [Sound Open Firmware](https://github.com/thesofproject/) and [ChromeOS](https://www.google.com/chromebook/chrome-os/)
+- 💡 Personal projects these days
+  - 🦀 Rewritting ant-arduino in rust
+  - 🚥 Lighting up my bike with music
+  - 🪴 Making my garden smarter
+- 💯 Open Source Advocate
+- 🌱 I’m currently teaching myself Rust 🦀
+- 💬 Ask me about
+  - 🚲 Sports tech
+  - 💻 DSPs
+  - 📟 Embedded/Operating Systems/IoT
+  - 🔉 Audio processing
+- 📫 How to reach me: curtis@malainey.com
