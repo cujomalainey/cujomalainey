@@ -2,7 +2,7 @@
 
 - 👷 Day to day work is over in [Sound Open Firmware](https://github.com/thesofproject/) and [ChromeOS](https://www.google.com/chromebook/chrome-os/)
 - 💡 Personal projects these days
-  - 🦀 Rewritting ant-arduino in rust
+  - 🦀 Rewritting [ant-arduino](https://github.com/cujomalainey/ant-arduino) in rust
   - 🚥 Lighting up my bike with music
   - 🪴 Making my garden smarter
 - 💯 Open Source Advocate
