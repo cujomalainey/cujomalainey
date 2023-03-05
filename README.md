@@ -2,7 +2,7 @@
 
 - 👷 Day to day work is over in [Sound Open Firmware](https://github.com/search?o=desc&q=org%3Athesofproject+cujomalainey&s=created&type=Issues) and [ChromeOS](https://chromium-review.googlesource.com/q/cujomalainey)
 - 💡 Personal projects these days
-  - 🦀 Rewritting [ant-arduino](https://github.com/cujomalainey/ant-arduino) in rust
+  - 🦀 Rewritting [ant-arduino](https://github.com/cujomalainey/ant-arduino) in rust ([ant-rs](https://github.com/cujomalainey/ant-arduino))
   - 🚥 Lighting up my bike with music
   - 🪴 Making my garden smarter
 - 💯 Open Source Advocate
