@@ -6,6 +6,7 @@
   - 🚥 Lighting up my bike with music
   - 🪴 Making my garden smarter
 - 💯 Open Source Advocate
+  - 🔧 Supporter of open hardware standards to stop e-waste 
 - 🌱 I’m currently teaching myself Rust 🦀
 - 💬 Ask me about
   - 🚲 Sports tech
